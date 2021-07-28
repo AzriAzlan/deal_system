@@ -1,0 +1,15 @@
+.content {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin:20px;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+
+.bg{
+    background-image: url(Icon/bg.jpg);
+    background-attachment: fixed;
+}
